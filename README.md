@@ -1,4 +1,4 @@
-##🇬🇧 English
+🇬🇧 English
 
 ActivityEraser — selective Windows activity traces cleaner (Fyne GUI).
 Removes user and system artifacts, supports Safe/Extended/Maximum cleaning modes, with log export.
@@ -7,7 +7,7 @@ Removes user and system artifacts, supports Safe/Extended/Maximum cleaning modes
 
 
 
-##🇷🇺 Русский
+🇷🇺 Русский
 
 ActivityEraser — инструмент для выборочной очистки пользовательских и системных артефактов активности в Windows (GUI на Fyne).
 Удаляет ключевые следы, поддерживает режимы Safe/Extended/Maximum и экспорт логов.
