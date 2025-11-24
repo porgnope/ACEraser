@@ -1,14 +1,12 @@
-🇬🇧 English
-
+##🇬🇧 English
 ActivityEraser — selective Windows activity traces cleaner (Fyne GUI).
 Removes user and system artifacts, supports Safe/Extended/Maximum cleaning modes, with log export.
+[Full English description](https://github.com/porgnope/ACEraser/blob/master/README.en.md)
 
-    Full English [description](https://github.com/porgnope/ACEraser/blob/master/README.en.md)
 
 
-🇷🇺 Русский
 
+##🇷🇺 Русский
 ActivityEraser — инструмент для выборочной очистки пользовательских и системных артефактов активности в Windows (GUI на Fyne).
 Удаляет ключевые следы, поддерживает режимы Safe/Extended/Maximum и экспорт логов.
-
-    Полное описание на [русском](https://github.com/porgnope/ACEraser/blob/master/README.ru.md)
+[Полное описание на русском](https://github.com/porgnope/ACEraser/blob/master/README.ru.md)
